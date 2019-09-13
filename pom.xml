@@ -245,7 +245,7 @@
 	</distributionManagement>
 
 	<scm>
-		<connection>scm:git:https://github.com/Estafet-LTD/estafet-microservices-scrum-parent.git</connection>
+		<connection>scm:git:https://github.com/Estafet-LTD/estafet-microservices-scrum-parent.git</connection> 
 		<developerConnection>scm:git:https://github.com/Estafet-LTD/estafet-microservices-scrum-parent.git</developerConnection>
 		<url>https://github.com/Estafet-LTD/estafet-microservices-scrum-parent</url>
 		<tag>HEAD</tag>
