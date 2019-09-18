@@ -245,14 +245,14 @@
 	</distributionManagement>
 
 	<scm>
-		<connection>scm:git:https://github.com/Estafet-LTD/estafet-microservices-scrum-parent.git</connection> 
-		<developerConnection>scm:git:https://github.com/Estafet-LTD/estafet-microservices-scrum-parent.git</developerConnection>
-		<url>https://github.com/Estafet-LTD/estafet-microservices-scrum-parent</url>
+		<connection>scm:git:https://github.com/sstefan0v/estafet-microservices-scrum-parent.git</connection> 
+		<developerConnection>scm:git:https://github.com/sstefan0v/estafet-microservices-scrum-parent.git</developerConnection>
+		<url>https://github.com/sstefan0v/estafet-microservices-scrum-parent</url>
 		<tag>HEAD</tag>
 	</scm>
 
 	<name>Parent pom for microservices scrum</name>
-	<url>https://github.com/Estafet-LTD/estafet-microservices-scrum-parent</url>
+	<url>https://github.com/sstefan0v/estafet-microservices-scrum-parent</url>
 	<description>Parent pom for microservices scrum</description>
 
 
